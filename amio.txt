@@ -1,0 +1,17 @@
+You make a travel blog:
+1. create a basic html page with head, body, doctype, meta, footer, title
+2. Title will be my travel blog
+3. Add a comments in your code: This is head section
+4. Give a heading in your blog with italic: My Travel blog
+5. Make div and write your travel article with various tag like p, span etc.
+6. add a button where you tell that read more
+
+
+
+Task 2
+1. What I bought............... write it outside of div and use span and bold tag for bought. (You must be 
+do red color in bought by span tag)
+2. create a order list which you bought from market
+3.create a unorder list which are your favourite place.
+4. insert a image and use- src, height, width and alt attributes
+5. Make a link which you carry a youtube vedio link.

@@ -1,0 +1,5 @@
+Html = hyper text markup language.
+
+file:///D:/Amio/firstDay.html
+
+control V
